@@ -1,5 +1,5 @@
 # Description
-This folder contains my thesis memory of an illuminated road emergency panel, which can be controlled by a touchscreen and wirelessly. It also contains all the code in an appendices folder. An abstract of the memory is the following:
+This folder contains my thesis memory of a luminous road emergency panel, which can be controlled by a touchscreen and wirelessly. It also contains all the code in an appendices folder. An abstract of the memory is the following:
 
 This document describes the process of improving a road emergency panel which was
 developed previously in the electronic technology department in the university of
