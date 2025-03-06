@@ -1,0 +1,10 @@
+Mejoras:
+
+Panel tactil/ pantalla para indicar todas funcionalidades.
+Panel LED en el que mostrar otro tipo de advertencias (viento, accidente...)
+Conectividad Bluetooth a parte con app.
+Multitensión 12V-24V.
+Variador de luminosidad.
+LDR compensar luz de noche.
+Cambio de luz de control manual a automatico con LDR.
+
